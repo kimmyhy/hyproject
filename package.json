@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.53.2",
     "@types/node": "^24.0.12"
+  },
+  "dependencies": {
+    "monocart-reporter": "^2.9.21"
   }
 }
